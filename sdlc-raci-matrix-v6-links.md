@@ -1,4 +1,4 @@
-# SDLC RACI Matrix
+# SDLC RACIS Matrix
 
 ## Обозначения
 
@@ -12,7 +12,7 @@
 
 ## Матрица
 
-| Отдел / Этап | Проектирование | Кодинг | Тестирование | Доставка | Эксплуатация |
+| Отдел / Этап | Проектирование | Кодинг | Тестирование | Поставка | Эксплуатация |
 |---|---|---|---|---|---|
 | **Менеджмент** | [Business Requirements](#business-requirements)<sup>A</sup><br>[Acceptance Criteria](#acceptance-criteria)<sup>A</sup> |  |  | [Release](#release)<sup>A</sup> | [Monitoring](#monitoring)<sup>I</sup><br>[Post-release Support](#post-release-support)<sup>I</sup> |
 | **Аналитика** | [Business Requirements](#business-requirements)<sup>R</sup><br>[Acceptance Criteria](#acceptance-criteria)<sup>R</sup><br>[HLD](#hld)<sup>AR</sup><br>[LLD](#lld)<sup>C</sup> | [API Contract](#api-contract)<sup>AC</sup><br>[Code](#code)<sup>C</sup> | [Security Testing](#security-testing)<sup>C</sup> | [Release](#release)<sup>C</sup> | [Monitoring](#monitoring)<sup>C</sup> |
