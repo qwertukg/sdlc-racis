@@ -3,7 +3,7 @@
 |    |  Проектирование |  Кодинг |  Тестирование |  Поставка |
 |---|---|---|---|---|
 | Менеджмент   |   |   |   |[Release](#release)<sup>A</sup>   |
-| Архитекторы   | [HLD](#hld)<sup>RAS</sup>  |   |   |   |
+| Аналитика   | [HLD](#hld)<sup>RAS</sup>  |   |   |   |
 |  Тимлиды      | [LLD](#lld)<sup>RAS</sup>  |[Documentation](#doc)<sup>AS</sup> [Unit tests](#unit)<sup>AS</sup> [Code](#code)<sup>AS</sup> |    |   |
 |  Разработчики |   |[Documentation](#doc)<sup>R</sup> [Unit tests](#unit)<sup>R</sup> [Code](#code)<sup>R</sup>  |[Auto tests](#auto)<sup>S</sup>   |[Release](#release)<sup>R</sup>   |
 |  QA           |   |   |[Auto tests](#auto)<sup>RA</sup>   |   |
